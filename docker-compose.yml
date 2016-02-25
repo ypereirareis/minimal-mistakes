@@ -1,6 +1,7 @@
 web:
-    build: .
+    image: ypereirareis/jekyll:3.1.2-minimal-mistakes
     working_dir: /app
+    user: bob
     volumes:
         - .:/app
     environment:
