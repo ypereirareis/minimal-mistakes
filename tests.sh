@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+make install
+
 NON_BLOG_URLS=4
 
 cat _config.yml | grep -v .dev.zol.fr | grep -q http://ypereirareis.github.io
