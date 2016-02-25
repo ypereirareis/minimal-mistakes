@@ -56,7 +56,7 @@ jkserve:
 	@echo "$(step) Jekyll Serve $(step)"
 	@$(compose) up -d web
 
-start: jkbuild jkserve
+start: stop jkbuild jkserve
 	@echo "$(step) Jekyll UP $(step)"
 	@$(compose) up -d web
 
