@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-rm -rf _site/
 make install
 
 NON_BLOG_URLS=4
