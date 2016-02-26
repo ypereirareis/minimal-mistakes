@@ -4,6 +4,7 @@ title:  "Elasticsearch zero downtime with FOSElasticaBundle for Symfony when rei
 excerpt: "FOSElasticaBundle allows zero downtime reindexing process using elasticsearch aliases. You need to set the correct configuration for your index in the Symfony config.yml file"
 image: elastic_marvel_history.png
 modified: "2016-02-15"
+comments: true
 ---
 
 When using [elasticsearch](https://www.elastic.co/) or [elastic](https://www.elastic.co/),

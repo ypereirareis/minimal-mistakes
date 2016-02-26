@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Doctrine automatic table prefix"
-description: "Always prefix your tables with a prefix to avoid naming conflicts. You can do this automatically with doctrine."
+excerpt: "Always prefix your tables with a prefix to avoid naming conflicts. You can do this automatically with doctrine."
 tags: [doctrine, table, tables, prefix, prefixes, automatic, automatically, bundles, bundle, subscriber, service, symfony]
 image: symfony.png
 modified: "2016-02-18"

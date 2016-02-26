@@ -39,5 +39,5 @@ It's secured with google open ID and you can apply an google apps organization c
 ## Start with satis and satisfy
 
 * `git clone git@github.com:ypereirareis/docker-satis.git`
-* then... just read the documentation on my [docker satis my git repository](https://github.com/ypereirareis/docker-satis)
+* then... just read the documentation on my [docker satis git repository](https://github.com/ypereirareis/docker-satis)
 
